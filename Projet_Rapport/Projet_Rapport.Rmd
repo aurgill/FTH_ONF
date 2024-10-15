@@ -1,7 +1,7 @@
 ---
 title: "Rapport projet FTH"
 author:
-  - name: Aurèlia BALAYER - Juliette XXX - Aurélien GILLARD
+  - name: Aurèlia BALAYER - Juliette BEZY - Aurélien GILLARD
     authsuperscript: 1*
   - name: Deuxième Auteur
     authsuperscript: 2

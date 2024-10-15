@@ -1,0 +1,226 @@
+fid,id_plot,type_piste,dbh,statut_vit,deg_tronc,deg_houp,deg_aplomb,num_onf,reserve,essence_com,essence,date_heure,commentaire
+"1",,Piste secondaire,"45",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,true,Cèdre noir,2024/09/16 17:58:51,
+"2",,Piste secondaire,"20",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,true,Amourette,2024/09/16 18:00:32,
+"3",,Piste secondaire,"15",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/16 18:03:38,
+"4",,Piste secondaire,"45",mort,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/16 18:04:10,
+"5",,Piste secondaire,"35",vivant,,,,,,,,2024/09/16 18:07:27,
+"6","8",Piste secondaire,"20",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,true,Cobe,2024/09/16 18:41:32,
+"7","8",Piste secondaire,"100",exploité,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,"7384",,true,Angélique ,2024/09/16 18:42:59,
+"8","8",Piste secondaire,"10",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/16 18:44:16,
+"9","8",Piste secondaire,"10",vivant,,,,,,,,2024/09/16 18:44:44,
+"10","8",Piste secondaire,"35",vivant,"2 - Blessures moyennes (200-600 cm²)
+",0 - Aucune branche endommagée,0 - Arbre droit,,,true,Aliniao,2024/09/16 18:45:07,
+"11","8",Piste secondaire,"35",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,true,Moni,2024/09/16 18:45:53,
+"12","10",Piste secondaire,"30",mort,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 11:33:43,
+"13","10",Piste secondaire,"15",vivant,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 11:39:18,
+"14","10",Piste secondaire,"45",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 11:42:22,
+"15","10",Piste secondaire,"20",vivant,"3 - Blessures importantes (>600cm²)
+",0 - Aucune branche endommagée,0 - Arbre droit,,,true,Mahot noir,2024/09/17 11:42:47,
+"16","10",Piste secondaire,"30",vivant,"2 - Blessures moyennes (200-600 cm²)
+",2 - Une ou plusieurs branches principales cassées ,0 - Arbre droit,,,true,Mahot noir,2024/09/17 11:44:20,
+"17",,Piste secondaire,"10",vivant,0 - Aucune blessure,0 - Aucune branche endommagée,3 - Arbre couché,,,false,,2024/09/17 11:46:58,
+"18","10",Piste secondaire,"10",vivant,0 - Aucune blessure,3 - Arbre étêté,0 - Arbre droit,,,,,2024/09/17 11:48:39,
+"19","28",Piste secondaire,"75",exploité,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,"07272",,,Angélique ,2024/09/17 18:19:14,
+"20","28",Piste secondaire,"45",intact,"2 - Blessures moyennes (200-600 cm²)
+",1 - Une ou plusieurs branches secondaires cassées,0 - Arbre droit,,,true,Mahot noir,2024/09/17 18:21:24,
+"21","28",Piste secondaire,"10",intact,0 - Aucune blessure,2 - Une ou plusieurs branches principales cassées ,0 - Arbre droit,,,,,2024/09/17 18:23:45,
+"22","28",Piste secondaire,"20",mort,"3 - Blessures importantes (>600cm²)
+",3 - Arbre étêté,3 - Arbre couché,,,,,2024/09/17 18:24:15,
+"23","28",Piste secondaire,"35",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 18:25:00,
+"24","28",Piste secondaire,"30",vivant,"3 - Blessures importantes (>600cm²)
+",0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 18:25:40,
+"25","28",Piste secondaire,"15",intact,0 - Aucune blessure,0 - Aucune branche endommagée,1 - Légèrement penché (<10°),,,,,2024/09/17 18:26:18,
+"26","25",Piste principale,"10",vivant,"3 - Blessures importantes (>600cm²)
+",3 - Arbre étêté,0 - Arbre droit,,,,,2024/09/17 18:35:30,
+"27","25",Piste principale,"20",vivant,"3 - Blessures importantes (>600cm²)
+",3 - Arbre étêté,0 - Arbre droit,,,,,2024/09/17 18:36:10,
+"28","25",Piste principale,"50",vivant,"2 - Blessures moyennes (200-600 cm²)
+",3 - Arbre étêté,0 - Arbre droit,,,,,2024/09/17 18:37:09,
+"29","25",,"10",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 18:43:56,
+"30","26",Piste principale,"45",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 19:12:08,
+"31","26",Piste principale,"10",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 19:12:23,
+"32","26",Piste principale,"10",vivant,"2 - Blessures moyennes (200-600 cm²)
+",3 - Arbre étêté,0 - Arbre droit,,,,,2024/09/17 19:12:39,Doublon
+"33","26",Piste principale,"35",vivant,"2 - Blessures moyennes (200-600 cm²)
+",0 - Aucune branche endommagée,0 - Arbre droit,,,,Angélique ,2024/09/17 19:13:02,
+"34","26",Piste principale,"25",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,true,Manille marécage ,2024/09/17 19:13:47,
+"35","26",Piste principale,"10",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 19:14:32,
+"36","26",Piste principale,"45",vivant,"1 - Petites blessures (<200cm²)
+",,,,,,,2024/09/17 19:14:41,
+"37","26",Piste principale,"50",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 19:15:07,
+"38","26",Piste principale,"45",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 19:15:18,
+"39","26",Piste principale,"15",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 19:15:44,
+"40","26",Piste principale,"45",vivant,"2 - Blessures moyennes (200-600 cm²)
+",1 - Une ou plusieurs branches secondaires cassées,0 - Arbre droit,,,true,GF,2024/09/17 19:15:55,
+"41","26",Piste principale,"60",mort,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 19:16:33,
+"42",,Piste secondaire,"45",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,true,Cèdre noir,2024/09/16 17:58:51,
+"43",,Piste secondaire,"20",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,true,Amourette,2024/09/16 18:00:32,
+"44",,Piste secondaire,"15",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/16 18:03:38,
+"45",,Piste secondaire,"45",mort,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/16 18:04:10,
+"46",,Piste secondaire,"35",vivant,"1 - Petites blessures (<200cm²)
+",0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/16 18:07:27,
+"47","8",Piste secondaire,"20",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,true,Cobe,2024/09/16 18:41:32,
+"48","8",Piste secondaire,"100",exploité,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,"7384",,true,Angélique ,2024/09/16 18:42:59,
+"49","8",Piste secondaire,"10",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/16 18:44:16,
+"50","8",Piste secondaire,"10",vivant,"1 - Petites blessures (<200cm²)
+",0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/16 18:44:44,
+"51","8",Piste secondaire,"35",vivant,"2 - Blessures moyennes (200-600 cm²)
+",0 - Aucune branche endommagée,0 - Arbre droit,,,true,Aliniao,2024/09/16 18:45:07,
+"52","8",Piste secondaire,"35",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,true,Moni,2024/09/16 18:45:53,
+"53","3",Piste secondaire,"15",vivant,"3 - Blessures importantes (>600cm²)
+",0 - Aucune branche endommagée,1 - Légèrement penché (<10°),,,,,2024/09/17 12:14:11,
+"54","3",Piste secondaire,"15",vivant,"1 - Petites blessures (<200cm²)
+",2 - Une ou plusieurs branches principales cassées ,0 - Arbre droit,,,,,2024/09/17 12:14:53,
+"55","3",Piste secondaire,"15",vivant,"1 - Petites blessures (<200cm²)
+",1 - Une ou plusieurs branches secondaires cassées,0 - Arbre droit,,,,,2024/09/17 12:15:31,
+"56","3",Piste secondaire,"45",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 12:16:30,
+"57","3",Piste secondaire,"55",vivant,0 - Aucune blessure,1 - Une ou plusieurs branches secondaires cassées,0 - Arbre droit,,,true,Maro rouge ,2024/09/17 12:16:59,
+"58","4",Piste secondaire,"30",vivant,"2 - Blessures moyennes (200-600 cm²)
+",2 - Une ou plusieurs branches principales cassées ,2 - Moyennement penché (>10°),,,,,2024/09/17 13:21:54,
+"59","4",Piste secondaire,"15",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 13:22:19,
+"60","4",Piste secondaire,"15",vivant,"1 - Petites blessures (<200cm²)
+",0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 13:22:54,
+"61","4",Piste secondaire,"25",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,true,Maro noir,2024/09/17 13:23:36,
+"62","4",Piste secondaire,"25",mort,,2 - Une ou plusieurs branches principales cassées ,1 - Légèrement penché (<10°),,,,,2024/09/17 13:25:50,
+"63","4",Piste secondaire,"95",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,Gaillac,2024/09/17 13:27:29,
+"64","4",Piste secondaire,"95",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 13:29:36,
+"65","4",Piste secondaire,"15",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 13:30:26,
+"66","4",Piste secondaire,"15",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 13:37:01,
+"67","11",Piste secondaire,"65",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,true,Cèdre noir,2024/09/17 16:16:01,
+"68","11",Piste secondaire,"10",vivant,"1 - Petites blessures (<200cm²)
+",1 - Une ou plusieurs branches secondaires cassées,,,,true,,2024/09/17 16:17:59,
+"69","12",Piste secondaire,"25",mort,"3 - Blessures importantes (>600cm²)
+",3 - Arbre étêté,1 - Légèrement penché (<10°),,,true,,2024/09/17 16:32:35,
+"70","12",Piste secondaire,"20",mort,"3 - Blessures importantes (>600cm²)
+",3 - Arbre étêté,1 - Légèrement penché (<10°),,,true,,2024/09/17 16:34:03,
+"71","12",Piste secondaire,"50",vivant,"3 - Blessures importantes (>600cm²)
+",0 - Aucune branche endommagée,0 - Arbre droit,,,true,,2024/09/17 16:34:19,
+"72",,,"10",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,false,,2024/09/17 16:48:05,
+"73",,,"28",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 16:48:36,
+"74",,,"20",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,true,Maro rouge,2024/09/17 16:50:22,
+"75",,Piste secondaire,"80",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 16:51:08,
+"76",,,"30",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 16:51:23,
+"77",,,"28",mort,,,,,,,,2024/09/17 16:52:05,
+"78",,,"80",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 16:52:21,
+"79",,,"20",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 16:53:30,
+"80",,Piste secondaire,"15",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 16:53:37,
+"81",,,"20",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 16:54:41,
+"82",,,"10",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 16:54:52,
+"83",,,"10",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 16:56:01,
+"84",,,"15",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 16:56:10,
+"85",,,"45",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 17:09:28,
+"86",,,"90",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,true,Maro rouge,2024/09/17 17:09:55,
+"87",,,"80",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,true,Angélique ,2024/09/17 17:11:12,
+"88",,,"15",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 17:12:16,
+"89",,,"15",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 17:12:21,
+"90",,Piste secondaire,"40",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 17:12:30,
+"91",,,"10",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 17:12:55,
+"92",,Piste secondaire,"10",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 17:13:04,
+"93",,Piste secondaire,"25",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 17:14:12,
+"94",,,"15",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 17:14:30,
+"95",,,"10",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,true,Maro noir,2024/09/17 17:14:37,
+"96",,,"15",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 17:15:19,
+"97",,,"15",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 17:15:47,
+"98",,Piste secondaire,"30",vivant,"1 - Petites blessures (<200cm²)
+",2 - Une ou plusieurs branches principales cassées ,1 - Légèrement penché (<10°),,,,,2024/09/17 17:16:00,
+"99",,,"10",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 17:16:32,
+"100",,Piste secondaire,"35",vivant,0 - Aucune blessure,3 - Arbre étêté,0 - Arbre droit,,,,,2024/09/17 17:16:46,
+"101","15",Piste secondaire,"40",vivant,"1 - Petites blessures (<200cm²)
+",0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 17:26:37,
+"102","15",Piste secondaire,"30",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 17:28:20,
+"103","15",Piste secondaire,"35",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 17:28:42,
+"104","15",Piste secondaire,"35",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 17:29:03,
+"105","15",Piste secondaire,"10",vivant,"1 - Petites blessures (<200cm²)
+",0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 17:29:32,
+"106","15",Piste secondaire,"25",vivant,,,,,,,,2024/09/17 17:29:45,
+"107","15",Piste secondaire,"50",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,true,Gaillac,2024/09/17 17:30:35,
+"108","15",Piste secondaire,"10",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 17:31:25,
+"109","15",Piste secondaire,"25",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 17:32:05,
+"110","15",Piste secondaire,"30",mort,"3 - Blessures importantes (>600cm²)
+",3 - Arbre étêté,0 - Arbre droit,,,,,2024/09/17 17:32:15,
+"111","14",Piste secondaire,"15",vivant,"1 - Petites blessures (<200cm²)
+",3 - Arbre étêté,0 - Arbre droit,,,,,2024/09/17 18:10:07,
+"112","14",Piste secondaire,"55",mort,0 - Aucune blessure,3 - Arbre étêté,2 - Moyennement penché (>10°),,,,,2024/09/17 18:10:32,
+"113","14",Piste secondaire,"10",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 18:11:17,
+"114","14",Piste secondaire,"10",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/17 18:11:34,
+"115","16",Piste secondaire,"25",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,true,Cèdre noir,2024/09/17 18:46:43,
+"116","16",Piste secondaire,"20",vivant,0 - Aucune blessure,3 - Arbre étêté,0 - Arbre droit,,,,,2024/09/17 18:47:50,
+"117","19",Piste principale,"10",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/18 12:58:13,
+"118","19",Piste principale,"10",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/18 12:58:29,
+"119","19",Piste principale,"10",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/18 12:58:49,
+"120","19",Piste principale,"10",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/18 12:59:24,
+"121","19",Piste principale,"20",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/18 12:59:30,
+"122","19",Piste principale,"15",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/18 13:00:22,
+"123","19",Piste principale,"15",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/18 13:00:53,
+"124","19",Piste principale,"10",vivant,,,,,,,,2024/09/18 13:01:17,Doublon
+"125","20",Piste principale,"30",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,true,Angelique,2024/09/18 13:15:11,
+"126",,Piste principale,"15",mort,"2 - Blessures moyennes (200-600 cm²)
+",3 - Arbre étêté,0 - Arbre droit,,,,,2024/09/18 13:15:32,
+"127","20",Piste principale,"35",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,true,Mao noir,2024/09/18 13:16:09,
+"128","20",Piste principale,"15",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/18 13:16:55,
+"129","20",Piste principale,"45",intact,"3 - Blessures importantes (>600cm²)
+",0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/18 13:17:15,
+"130","20",Piste principale,"25",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/18 13:18:02,
+"131","68",Piste secondaire,"15",vivant,"3 - Blessures importantes (>600cm²)
+",0 - Aucune branche endommagée,2 - Moyennement penché (>10°),,,,,2024/09/19 13:19:29,
+"132","69",Piste secondaire,"85",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/19 13:34:02,
+"133","69",Piste secondaire,"30",vivant,"3 - Blessures importantes (>600cm²)
+",0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/19 13:35:20,
+"134","69",Piste secondaire,"15",vivant,0 - Aucune blessure,0 - Aucune branche endommagée,2 - Moyennement penché (>10°),,,,,2024/09/19 13:35:32,
+"135","69",Piste secondaire,"15",vivant,0 - Aucune blessure,3 - Arbre étêté,2 - Moyennement penché (>10°),,,,Palmier ,2024/09/19 13:35:57,Doublon
+"136","69",Piste secondaire,"30",vivant,0 - Aucune blessure,1 - Une ou plusieurs branches secondaires cassées,0 - Arbre droit,,,,,2024/09/19 13:36:30,
+"137","69",Piste secondaire,"40",vivant,"3 - Blessures importantes (>600cm²)
+",0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/19 13:36:51,
+"138","69",Piste secondaire,"10",vivant,0 - Aucune blessure,1 - Une ou plusieurs branches secondaires cassées,0 - Arbre droit,,,,,2024/09/19 13:37:17,
+"139","69",Piste secondaire,"10",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/19 13:37:36,
+"140","69",Piste secondaire,"45",vivant,"1 - Petites blessures (<200cm²)
+",0 - Aucune branche endommagée,0 - Arbre droit,,,true,Mahot noir ,2024/09/19 13:37:55,
+"141","69",Piste secondaire,"35",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/19 13:38:18,
+"142","69",Piste secondaire,"50",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/19 13:38:27,
+"143","69",Piste secondaire,"10",vivant,"3 - Blessures importantes (>600cm²)
+",0 - Aucune branche endommagée,2 - Moyennement penché (>10°),,,,,2024/09/19 13:38:34,
+"144","32",Piste secondaire,"35",vivant,"3 - Blessures importantes (>600cm²)
+",0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/19 11:18:54,
+"145","32",Piste secondaire,"20",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,true,Angélique ,2024/09/19 11:19:32,
+"146","32",Piste secondaire,"15",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/19 11:20:03,
+"147","32",Piste secondaire,"10",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/19 11:20:16,
+"148","32",Piste secondaire,"25",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/19 11:20:22,
+"149","67",Piste secondaire,"20",vivant,"3 - Blessures importantes (>600cm²)
+",,,,true,true,Balatafron,2024/09/19 12:28:57,
+"150","67",Piste secondaire,"20",vivant,"1 - Petites blessures (<200cm²)
+",1 - Une ou plusieurs branches secondaires cassées,0 - Arbre droit,,,true,Mahot cigare,2024/09/19 12:29:41,
+"151","67",Piste secondaire,"10",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,false,true,Mahot noir ,2024/09/19 12:30:08,
+"152","67",Piste secondaire,"10",vivant,"2 - Blessures moyennes (200-600 cm²)
+",3 - Arbre étêté,0 - Arbre droit,,,,,2024/09/19 12:30:29,
+"153","67",Piste secondaire,"20",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/19 12:30:49,
+"154",,,"40",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,true,true,Courbaril ,2024/09/19 12:34:31,
+"155",,,"25",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,false,true,Boko,2024/09/19 12:35:10,
+"156",,,"15",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,false,,Mahot noir,2024/09/19 12:35:23,
+"157",,,"15",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/19 12:35:52,
+"158",,Piste secondaire,"10",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/19 12:36:13,
+"159",,Piste secondaire,"18",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/19 12:36:18,
+"160",,,"10",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/19 12:36:24,
+"161",,,"15",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/19 12:36:30,
+"162",,,"10",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/19 12:36:36,
+"163",,,"25",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/19 12:36:48,
+"164",,,"25",mort,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/19 12:36:54,
+"165",,Piste secondaire,"10",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/19 12:37:03,
+"166",,,"15",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/19 12:37:17,
+"167",,,"30",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,Mahot noir,2024/09/19 12:37:32,
+"168",,,"90",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,Yayamadou ,2024/09/19 12:38:07,
+"169",,,"15",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/19 12:38:35,
+"170",,Piste secondaire,"10",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/19 12:38:40,
+"171",,Piste secondaire,"20",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/19 12:38:46,
+"172",,,"15",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/19 12:38:52,
+"173",,,"10",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/19 12:39:00,
+"174",,Piste secondaire,"20",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/19 12:39:05,
+"175",,Piste secondaire,"25",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/19 12:39:11,
+"176","29",Piste secondaire,"25",vivant,"3 - Blessures importantes (>600cm²)
+",2 - Une ou plusieurs branches principales cassées ,1 - Légèrement penché (<10°),,,,,2024/09/19 13:00:19,
+"177","29",Piste secondaire,"30",mort,"3 - Blessures importantes (>600cm²)
+",3 - Arbre étêté,0 - Arbre droit,,,,,2024/09/19 13:00:39,
+"178","29",Piste secondaire,"10",vivant,0 - Aucune blessure,1 - Une ou plusieurs branches secondaires cassées,0 - Arbre droit,,,,,2024/09/19 13:01:05,
+"179","29",Piste secondaire,"10",vivant,"3 - Blessures importantes (>600cm²)
+",0 - Aucune branche endommagée,3 - Arbre couché,,,,,2024/09/19 13:01:24,
+"180","29",Piste secondaire,"30",exploité,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,true,Mahot noir,2024/09/19 13:02:18,
+"181","29",Piste secondaire,"0",intact,0 - Aucune blessure,0 - Aucune branche endommagée,0 - Arbre droit,,,,,2024/09/19 13:03:35,3 ou 4 arbres couchés sur la piste : gros dégâts 
